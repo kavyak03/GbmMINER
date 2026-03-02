@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # gbmMINER (Original Notebook Repository)
 
 ## Execution Guide & Required Input Files
@@ -227,4 +226,3 @@ If errors occur, first verify: - File paths - Column names - Sample ID
 consistency
 =======
 # GbmMINER
->>>>>>> e3b034401ddb73ecba7b9a6ac1629f0fd4c62f7a
