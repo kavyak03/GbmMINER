@@ -222,7 +222,7 @@ This repository reproduces portions of analyses described in the manuscript, but
 does not contain raw datasets. Users are responsible for supplying
 expression matrices, survival data, and MINER outputs.
 
-If errors occur, first verify: - File paths - Column names - Sample ID
-consistency
-=======
-# GbmMINER
+# If errors occur: 
+
+First verify: File paths - Column names - Sample ID consistency
+
