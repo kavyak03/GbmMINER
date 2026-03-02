@@ -1,0 +1,6 @@
+# local data + outputs
+data/raw/*
+data/interim/*
+data/processed/*
+outputs/*
+!.gitkeep
